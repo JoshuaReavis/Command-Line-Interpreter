@@ -1,0 +1,1 @@
+char *betterfgets(char **cmdhistory);
