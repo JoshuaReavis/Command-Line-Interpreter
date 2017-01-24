@@ -1,6 +1,5 @@
 // Josh Reavis
 // Summer 2016
-// Created for CSCI 352 Unix Software Development
 
 // Replacement Unix ls command. Lists the contents of one or more directories
 // specified as cmmnad line arguments in alaphabetical order.
