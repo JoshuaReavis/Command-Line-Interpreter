@@ -1,6 +1,5 @@
 // Josh Reavis
 // Summer 2016
-// Created for CSCI 352 Unix Software Development
 
 // This program allows for the up and down arrow functionalities which display
 // previous command lines entered by the user, adds individual command lines into
