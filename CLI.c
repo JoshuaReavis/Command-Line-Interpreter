@@ -1,6 +1,5 @@
 // Josh Reavis
 // Summer 2016
-// Created for CSCI 352 Unix Software Development
 
 // Shell Command Line Interpreter which can operate all of the bash commands
 // as well as some commands I have made.
