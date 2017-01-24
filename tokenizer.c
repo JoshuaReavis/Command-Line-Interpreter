@@ -1,6 +1,5 @@
 // Joshua Reavis
 // Summer 2016
-// Created for CSCI 352 Unix Software Development
 
 // This program takes a string and splits it along delimiters, creating tokens inside of an array of strings
 
