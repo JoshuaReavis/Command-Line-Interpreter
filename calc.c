@@ -1,6 +1,5 @@
 // Josh Reavis
 // Summer 2016
-// Created for CSCI 352 Unix Software Development
 
 // A simple calculator which takes single arithmetic operations from stdin
 // and writes the formatted expression and result to stdout.
