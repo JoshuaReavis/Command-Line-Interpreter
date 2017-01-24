@@ -1,6 +1,5 @@
 // Josh Reavis
 // Summer 2016
-// Created for CSCI 352 Unix Software Development
 
 // Utility similar to grep which will search through one or more files
 // and report any lines in those files that contain a string matching
