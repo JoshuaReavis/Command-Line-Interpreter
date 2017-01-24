@@ -1,6 +1,5 @@
 // Josh Reavis
 // Summer 2016
-// Created for CSCI 352 Unix Software Development
 
 // This program allows for the piping functionality of CLI.
 // The parent process forks to two seperate children and establishes
