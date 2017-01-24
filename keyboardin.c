@@ -1,6 +1,5 @@
 // Josh Reavis
 // Summer 2016
-// Created for CSCI 352 Unix Software Development
 
 // This program enhances the command line interpreter with dynamic command history capability.
 // Used in conjuction with the history array passed in through CLI.c, betterfgets allows us to
